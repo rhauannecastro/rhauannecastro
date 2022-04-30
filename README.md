@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @rhauannecastro
-- 👀 I’m interested in ...
+- 👀 I’m interested in back end
 - 🌱 I’m currently learning python/java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 rhauannecastro/rhauannecastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
